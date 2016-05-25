@@ -1,6 +1,9 @@
 # Data-Classifier
 Training k-nearest neighbours and MLE classifier, and testing with test data.
 
+### Overview
+Uses Feature Selection and Extraction (Principal Component Analysis (PCA) and Dimensionality Reduction) to gain features by which to classify training data. Creates models using both Nearest-Centroid and Maximum Likelihood in order to classify test data.
+
 ### Objective
 Create classifiers based on `150` training samples, in order to (hopefully) correctly classify `15` test samples.
 
